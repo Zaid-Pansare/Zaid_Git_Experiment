@@ -1,1 +1,2 @@
 This is my first Git practical 
+This is an update made on GitHub.
